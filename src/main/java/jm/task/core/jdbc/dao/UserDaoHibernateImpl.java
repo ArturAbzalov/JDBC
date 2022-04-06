@@ -16,16 +16,16 @@ public class UserDaoHibernateImpl implements UserDao {
 
 
     @Override
-    public void createUsersTable(){
+    public void createUsersTable() {
 
     }
 
     @Override
-    public void dropUsersTable(){
+    public void dropUsersTable() {
     }
 
     @Override
-    public void saveUser(String name, String lastName, byte age){
+    public void saveUser(String name, String lastName, byte age) {
     }
 
     @Override
